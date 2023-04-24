@@ -1,2 +1,2 @@
 # Agriculture-management-system
-vtu 5th sem DBMS m ni project
+vtu 5th sem DBMS mini project
